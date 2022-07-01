@@ -10,7 +10,7 @@ Half-open interval is that the end of the interval is not considered within it. 
 Please solve the task in RUST
 
 ## Result
-
+```bash
 Please enter number of meetings: 
 3
 Please enter start & end time delimited by SPACE:
@@ -22,3 +22,4 @@ Please enter start & end time delimited by SPACE:
 [7, 9]
 The result is:
 2
+```
