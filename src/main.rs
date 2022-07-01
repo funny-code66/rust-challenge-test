@@ -36,6 +36,7 @@ fn main() {
     read!(x as u32);
 	let mut aa = Vec::new();
 	let mut bb = Vec::new();
+	println!("Please enter start & end time delimited by SPACE: ");
 	for i in 0..x {
 		read_vec!(v as u32); // Reads space separated integers and stops when newline is encountered.
 		println!("{:?}", v);
