@@ -55,5 +55,6 @@ fn main() {
 			min = mins;
 		}
 	}
+	println!("The result is: ");
 	println!("{}", min);
 }
